@@ -69,7 +69,7 @@ public class Users {
 			String url = "jdbc:mysql://localhost:3307/dbjoes?characterEncoding=utf8";
 			String username = "alumno";
 			String password = "alumno";
-			String hola = "hola";
+			String hola = "hol2a";
 			con = DriverManager.getConnection(url, username, password);
 		} catch (Exception ex) {
 			ex.printStackTrace();
